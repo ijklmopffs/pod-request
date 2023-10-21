@@ -1,0 +1,10 @@
+#root {
+  max-width: 1440px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Chivo", sans-serif;
+  overflow: hidden;
+}
+body {
+  background-color: #121725;
+}
